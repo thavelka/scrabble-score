@@ -6,6 +6,8 @@ This is a one-day app I made to practice some things that I've learned, as well 
 This is also the first app I've made with 100% original code.
 I will not be continuing development, as this was only meant to be a quick personal challenge.
 
+The Activity code is a complete mess, but considering this is my very first app, I'll be leaving it like that so I can come back and see how much I've improved.
+
 Features:
 * Players can add the names of two players, shown at the top of the main screen.
 * Scores can be incremented or decremented by one or five at a time.
